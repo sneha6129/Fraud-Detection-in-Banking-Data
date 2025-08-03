@@ -67,6 +67,7 @@ Each domain has two trained models, stored as `.pkl` files, to ensure high-perfo
 - Cloud:  AWS
 
 
+<img width="792" height="418" alt="image" src="https://github.com/user-attachments/assets/c70e70a1-5827-41fc-9e23-ee664b422181" />
 
 
 
